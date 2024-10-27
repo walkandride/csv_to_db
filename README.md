@@ -1,4 +1,4 @@
-# Project:  CSV to DB
+# Data Engineering on a Budget: Embracing On-Premise Solutions for OLTP & OLAP
 
 Navigating the Shift from Cloud-Based to On-Premise Data Engineering
 
@@ -24,7 +24,7 @@ For IT professionals looking to transition into data engineering roles, embracin
 
 ## TODO
 - Identify dataset.
-- Identify KPIs.
+- Identify Key Performance Indicators (KPIs).
 - Create data models.
 - Load data models.
 
@@ -34,7 +34,7 @@ For IT professionals looking to transition into data engineering roles, embracin
 
 
 
-## Identify Key Performance Indicators (KPI's):
+## Key Performance Indicators (KPIs):
 1. **Check-In Rate**: The percentage of active members who check in during a specific period. This helps gauge member engagement and gym usage.
 2. **Peak Hours**: Identifying the busiest times of the day or week can help with staffing and resource allocation.
 3. **Average Check-Ins Per Member**: The average number of times a member checks in during a month. This can indicate member engagement and satisfaction.
@@ -53,4 +53,5 @@ For IT professionals looking to transition into data engineering roles, embracin
 - Snowflake Schema for OLAP processing
 
 
-## Load The Models
+## Populate Models
+Data models can be efficiently loaded through the use of bulk load applications. However, when the schema undergoes transformation and no longer aligns with the original CSV file formats, a programmatic approach may be necessary. This article will delve into the diverse methods available for accomplishing this task.

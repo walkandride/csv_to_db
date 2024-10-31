@@ -51,23 +51,14 @@ In this dataset, we'll find key indicators that help gym owners and managers und
 
 
 ## Data Models
-OLTP defined schemas.
+OLTP defined schema.
 ![Normalized schema](./images/csv_oltp.png)
-<center>
-Normalized schema for OLTP processing
-</center>
 
-
-OLAP defined schemas.
+OLAP Star defined schema.
 ![Star schema](./images/csv_star.png) 
-<center>
-Star schema for OLAP processing
-</center>
 
+OLAP Snowflake defined schema.
 ![Snowflake schema](./images/csv_snow.png) 
-<center>
-Snowflake schema for OLAP processing
-</center>
 
 
 ## Populate Models

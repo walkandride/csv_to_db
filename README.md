@@ -30,9 +30,14 @@ For IT professionals looking to transition into data engineering roles, embracin
 ## Dataset
 - [Gym Check-ins and User Metadata](https://www.kaggle.com/datasets/mexwell/gym-check-ins-and-user-metadata)
 
+This pristine dataset is the perfect foundation for this project. As a fitness enthusiast, I can't wait to dive in and have a blast analyzing this data. Let's turn those check-ins into insights! 💪📊
 
 
 ## Key Performance Indicators (KPIs):
+These measurable values help organizations track their progress toward achieving key business objectives. Essentially, KPIs serve as a performance management tool that provides a focus for strategic and operational improvement and creates an analytical basis for decision-making.
+
+In this dataset, we'll find key indicators that help gym owners and managers understand member behavior, streamline gym operations, and make informed decisions to enhance the overall gym experience.  Here are some potential KPIs:
+
 1. **Check-In Rate**: The percentage of active members who check in during a specific period. This helps gauge member engagement and gym usage.
 2. **Peak Hours**: Identifying the busiest times of the day or week can help with staffing and resource allocation.
 3. **Average Check-Ins Per Member**: The average number of times a member checks in during a month. This can indicate member engagement and satisfaction.
@@ -46,9 +51,23 @@ For IT professionals looking to transition into data engineering roles, embracin
 
 
 ## Data Models
-- Normalized schema for OLTP processing
-- Star Schema for OLAP processing
-- Snowflake Schema for OLAP processing
+OLTP defined schemas.
+![Normalized schema](./images/csv_oltp.png)
+<center>
+Normalized schema for OLTP processing
+</center>
+
+
+OLAP defined schemas.
+![Star schema](./images/csv_star.png) 
+<center>
+Star schema for OLAP processing
+</center>
+
+![Snowflake schema](./images/csv_snow.png) 
+<center>
+Snowflake schema for OLAP processing
+</center>
 
 
 ## Populate Models

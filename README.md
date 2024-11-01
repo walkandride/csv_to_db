@@ -26,6 +26,18 @@ For IT professionals looking to transition into data engineering roles, embracin
 - Create data models.
 - Load data models.
 
+## Files
+Please note that .ipynb files may not display consistently on GitHub. It is advisable to utilize nbviewer for a more reliable viewing experience of these documents.
+
+- README.md
+- [![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/walkandride/csv_to_db/blob/main/gym_explore.ipynb)gym_explore.ipynb
+- data/checkin_checkout_history_updated.csv
+- data/gym_locations_data.csv
+- data/subscription_plans.csv
+- data/users_data.csv
+- images/csv_oltp.png
+- images/csv_snow.png
+- images/csv_star.png
 
 ## Dataset
 - [Gym Check-ins and User Metadata](https://www.kaggle.com/datasets/mexwell/gym-check-ins-and-user-metadata)

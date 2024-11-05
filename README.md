@@ -38,6 +38,7 @@ Please note that .ipynb files may not display consistently on GitHub. It is advi
 - images/csv_oltp.png
 - images/csv_snow.png
 - images/csv_star.png
+- [![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange?logo=jupyter)](https://github.com/walkandride/csv_to_db/blob/main/kpis/kpi_02.ipynb)kpi_02.ipynb.ipynb
 
 ## Dataset
 - [Gym Check-ins and User Metadata](https://www.kaggle.com/datasets/mexwell/gym-check-ins-and-user-metadata)
@@ -51,7 +52,7 @@ These measurable values help organizations track their progress toward achieving
 In this dataset, we'll find key indicators that help gym owners and managers understand member behavior, streamline gym operations, and make informed decisions to enhance the overall gym experience.  Here are some potential KPIs:
 
 1. **Check-In Rate**: The percentage of active members who check in during a specific period. This helps gauge member engagement and gym usage.
-2. **Peak Hours**: Identifying the busiest times of the day or week can help with staffing and resource allocation.
+2. [![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange?logo=jupyter)](https://github.com/walkandride/csv_to_db/blob/main/kpis/kpi_02.ipynb)**Peak Hours**: Identifying the busiest times of the day or week can help with staffing and resource allocation.
 3. **Average Check-Ins Per Member**: The average number of times a member checks in during a month. This can indicate member engagement and satisfaction.
 4. **New Member Check-In Rate**: The frequency at which new members check in during their first month. This can help assess the onboarding process.
 5. **Inactive Member Rate**: The percentage of members who haven't checked in for a certain period (e.g., 30 days). This can help identify members at risk of canceling their memberships.

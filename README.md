@@ -38,7 +38,7 @@ Please note that .ipynb files may not display consistently on GitHub. It is advi
 - images/csv_oltp.png
 - images/csv_snow.png
 - images/csv_star.png
-- [![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange?logo=jupyter)](https://github.com/walkandride/csv_to_db/blob/main/kpis/kpi_02.ipynb)kpi_02.ipynb.ipynb
+- [![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange?logo=jupyter)](https://github.com/walkandride/csv_to_db/blob/main/kpis/kpi_02.ipynb)kpis/kpi_02.ipynb
 
 ## Dataset
 - [Gym Check-ins and User Metadata](https://www.kaggle.com/datasets/mexwell/gym-check-ins-and-user-metadata)

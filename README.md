@@ -76,3 +76,7 @@ OLAP Snowflake defined schema.
 
 ## Populate Models
 Data models can be efficiently loaded through the use of bulk load applications. However, when the schema undergoes transformation and no longer aligns with the original CSV file formats, a programmatic approach may be necessary. This article will delve into the diverse methods available for accomplishing this task.
+
+
+## Final Thoughts
+The unavailability of updates for the dataset in this project presents a challenge to the expansion of our data warehouse. Should updates become available, we could enhance our tables by employing a systematic approach to data population. Apache Airflow provides a framework to design and orchestrate such workflows. ![Aiorflow Workflow](./images/airflow.png)  With our goal in mind, we can emulate these processes through database jobs. Contemporary databases offer features for scheduling and executing code, with Postgres' pgAgent being a prime example. While it may lack the finesse of Airflow, each task in Airflow could be translated into a discrete job within the database, ensuring a functional, if not as streamlined, workflow.
